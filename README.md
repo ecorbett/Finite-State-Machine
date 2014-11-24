@@ -1,4 +1,5 @@
-Finite-State-Machine
-====================
+Finite State Machine
+================
 
-Finite state machine design pattern in javascript
+A demonstration of a finite state machine design pattern coded in javascript.
+
